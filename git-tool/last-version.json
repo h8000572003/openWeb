@@ -1,7 +1,7 @@
 {
-    version: "v.0.1",
-    updateType: "A"
-    rang: "¡i¥»¦¸µ{¦¡¡j\nssh://git@gitlab.intranet.com.tw:10022/#{project}/#{id}_TMP.git \n\ntag:#{tag}\n\n¹w¬ù­ì±½³æ¸¹¡G#{no}\n\n¡i§¹¾ãµ{¦¡¡j\nssh://git@gitlab.intranet.com.tw:10022/#{project}/#{id}.git \ntag:#{tag}"
-    qa: "#{project}_#{id}_To_Pgitlab  \n(jenkinsl1.intranet.com.tw/) \n(tag:#{tag})"
-    op: "#{project}_#{id} \n(172.26.10.24) \n(tag:#{tag})"
+    "version": "v.0.1",
+    "updateType": "A"
+    "rang": "ã€æœ¬æ¬¡ç¨‹å¼ã€‘\nssh://git@gitlab.intranet.com.tw:10022/#{project}/#{id}_TMP.git \n\ntag:#{tag}\n\né ç´„åŸæƒå–®è™Ÿï¼š#{no}\n\nã€å®Œæ•´ç¨‹å¼ã€‘\nssh://git@gitlab.intranet.com.tw:10022/#{project}/#{id}.git \ntag:#{tag}"
+    "qa": "#{project}_#{id}_To_Pgitlab  \n(jenkinsl1.intranet.com.tw/) \n(tag:#{tag})"
+    "op": "#{project}_#{id} \n(172.26.10.24) \n(tag:#{tag})"
 }
